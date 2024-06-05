@@ -1,6 +1,8 @@
 # notesappflutter
+Nama : Rizki Saputra
+NIM : 2106138
 
-A new Flutter project.
+Project ini dibuat untuk Jadwal Pengganti Perkuliahan Pertemuan 12 mata kuliah Pratikum Pemograman Mobile 
 
 ## Getting Started
 
